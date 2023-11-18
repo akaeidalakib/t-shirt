@@ -40,7 +40,7 @@ const Header = () => {
                         </ul>
                     </div>
                     <div className="navbar-end">
-                        <a href="https://github.com/akaeidalakib/customize-t-shirt" className="btn">Github link</a>
+                        <a href="https://github.com/akaeidalakib/t-shirt" className="btn">Github link</a>
                     </div>
                 </div>
             </header>
